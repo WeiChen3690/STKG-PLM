@@ -1,0 +1,1 @@
+python runner.py --save_name STKG_PLM-GWL-9-23 --dataset_name GWL --lr 0.005 --batch_size 64 --gpu_id 1 --train_model STKG_PLM --patience 5 
