@@ -1,0 +1,146 @@
+-1:[CHE] At the beginning
+0:[SHT] in less than thirty minutes
+1:[SHT] after a time of thirty minutes
+2:[SHT] after a time of an hour
+3:[SHT] after a time of an hour and a half
+4:[SHT] after a time of two hours
+5:[SHT] after a time of two hours and a half
+6:[SHT] after a time of three hours
+7:[SHT] after a time of three hours and a half
+8:[SHT] after a time of four hours
+9:[SHT] after a time of four hours and a half
+10:[SHT] after a time of five hours
+11:[SHT] after a time of five hours and a half
+12:[SHT] after a time of six hours
+13:[SHT] after a time of six hours and a half
+14:[SHT] after a time of seven hours
+15:[SHT] after a time of seven hours and a half
+16:[SHT] after a time of eight hours
+17:[SHT] after a time of eight hours and a half
+18:[SHT] after a time of nine hours
+19:[SHT] after a time of nine hours and a half
+20:[SHT] after a time of ten hours
+21:[SHT] after a time of ten hours and a half
+22:[SHT] after a time of eleven hours
+23:[SHT] after a time of eleven hours and a half
+24:[SHT] after a time of twelve hours
+25:[SHT] after a time of twelve hours and a half
+26:[SHT] after a time of thirteen hours
+27:[SHT] after a time of thirteen hours and a half
+28:[SHT] after a time of forteen hours
+29:[SHT] after a time of forteen hours and a half
+30:[SHT] after a time of fifteen hours
+31:[SHT] after a time of fifteen hours and a half
+32:[SHT] after a time of sixteen hours
+33:[SHT] after a time of sixteen hours and a half
+34:[SHT] after a time of seventeen hours
+35:[SHT] after a time of seventeen hours and a half
+36:[SHT] after a time of eighteen hours
+37:[SHT] after a time of eighteen hours and a half
+38:[SHT] after a time of nineteen hours
+39:[SHT] after a time of nineteen hours and a half
+40:[SHT] after a time of twenty hours
+41:[SHT] after a time of twenty hours and a half
+42:[SHT] after a time of twenty-one hours
+43:[SHT] after a time of twenty-one hours and a half
+44:[SHT] after a time of twenty-two hours
+45:[SHT] after a time of twenty-two hours and a half
+46:[SHT] after a time of twenty-three hours
+47:[SHT] after a time of twenty-three hours and a half
+48:[SHT] after a time of twenty-four hours
+49:[MID] after a time of twenty-four hours and a half
+50:[MID] after a time of twenty-five hours 
+51:[MID] after a time of twenty-five hours and a half
+52:[MID] after a time of twenty-six hours
+53:[MID] after a time of twenty-six hours and a half
+54:[MID] after a time of twenty-seven hours
+55:[MID] after a time of twenty-seven hours and a half
+56:[MID] after a time of twenty-eight hours
+57:[MID] after a time of twenty-eight hours and a half
+58:[MID] after a time of twenty-nine hours
+59:[MID] after a time of twenty-nine hours and a half
+60:[MID] after a time of thirty hours
+61:[MID] after a time of thirty hours and a half
+62:[MID] after a time of thirty-one hours
+63:[MID] after a time of thirty-one hours and a half
+64:[MID] after a time of thirty-two hours
+65:[MID] after a time of thirty-two hours and a half
+66:[MID] after a time of thirty-three hours
+67:[MID] after a time of thirty-three hours and a half
+68:[MID] after a time of thirty-four hours
+69:[MID] after a time of thirty-four hours and a half
+70:[MID] after a time of thirty-five hours
+71:[MID] after a time of thirty-five hours and a half
+72:[MID] after a time of a day and a half
+73:[MID] after a time of thirty-six hours and a half
+74:[MID] after a time of thirty-seven hours
+75:[MID] after a time of thirty-seven hours and a half
+76:[MID] after a time of thirty-eight hours
+77:[MID] after a time of thirty-eight hours and a half
+78:[MID] after a time of thirty-nine hours
+79:[MID] after a time of thirty-nine hours and a half
+80:[MID] after a time of forty hours
+81:[MID] after a time of forty hours and a half
+82:[MID] after a time of forty-one hours
+83:[MID] after a time of forty-one hours and a half
+84:[MID] after a time of forty-two hours
+85:[MID] after a time of forty-two hours and a half
+86:[MID] after a time of forty-three hours
+87:[MID] after a time of forty-three hours and a half
+88:[MID] after a time of forty-four hours
+89:[MID] after a time of forty-four hours and a half
+90:[MID] after a time of forty-five hours
+91:[MID] after a time of forty-five hours and a half
+92:[MID] after a time of forty-six hours
+93:[MID] after a time of forty-six hours and a half
+94:[MID] after a time of forty-seven hours
+95:[MID] after a time of forty-seven hours and a half
+96:[LNG] after a time of forty-eight hours
+97:[LNG] after a time of forty-eight hours and a half
+98:[LNG] after a time of forty-nine hours
+99:[LNG] after a time of forty-nine hours and a half
+100:[LNG] after a time of fifty hours
+101:[LNG] after a time of fifty hours and a half
+102:[LNG] after a time of fifty-one hours
+103:[LNG] after a time of fifty-one hours and a half
+104:[LNG] after a time of fifty-two hours
+105:[LNG] after a time of fifty-two hours and a half
+106:[LNG] after a time of fifty-three hours
+107:[LNG] after a time of fifty-three hours and a half
+108:[LNG] after a time of fifty-four hours
+109:[LNG] after a time of fifty-four hours and a half
+110:[LNG] after a time of fifty-five hours
+111:[LNG] after a time of fifty-five hours and a half
+112:[LNG] after a time of fifty-six hours
+113:[LNG] after a time of fifty-six hours and a half
+114:[LNG] after a time of fifty-seven hours
+115:[LNG] after a time of fifty-seven hours and a half
+116:[LNG] after a time of fifty-eight hours
+117:[LNG] after a time of fifty-eight hours and a half
+118:[LNG] after a time of fifty-nine hours
+119:[LNG] after a time of fifty-nine hours and a half
+120:[LNG] after a time of sixty hours
+121:[LNG] after a time of sixty hours and a half
+122:[LNG] after a time of sixty-one hours
+123:[LNG] after a time of sixty-one hours and a half
+124:[LNG] after a time of sixty-two hours
+125:[LNG] after a time of sixty-two hours and a half
+126:[LNG] after a time of sixty-three hours
+127:[LNG] after a time of sixty-three hours and a half
+128:[LNG] after a time of sixty-four hours
+129:[LNG] after a time of sixty-four hours and a half
+130:[LNG] after a time of sixty-five hours
+131:[LNG] after a time of sixty-five hours and a half
+132:[LNG] after a time of sixty-six hours
+133:[LNG] after a time of sixty-six hours and a half
+134:[LNG] after a time of sixty-seven hours
+135:[LNG] after a time of sixty-seven hours and a half
+136:[LNG] after a time of sixty-eight hours
+137:[LNG] after a time of sixty-eight hours and a half
+138:[LNG] after a time of sixty-nine hours
+139:[LNG] after a time of sixty-nine hours and a half
+140:[LNG] after a time of seventy hours
+141:[LNG] after a time of seventy hours and a half
+142:[LNG] after a time of seventy-one hours
+143:[LNG] after a time of seventy-one hours and a half
+144:[LNG] after a time of seventy-two hours
