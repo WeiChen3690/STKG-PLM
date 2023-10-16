@@ -20,9 +20,9 @@ Next-POI Recommendation with Spatial-Temporal Knowledge Graph and Prompt Pre-tra
 
 ## Method:
 ### Prepare data
-Put the raw datasets `TKY.txt`,  `GWL.txt` or `IST.txt` in the folder `./datasets/Foursquare_*`,  which are renamed from e real-world datasets of Foursquare platform. In each data folder, there is also a text file `time_dict.txt`, which is used to construct temporal prompt.
+Put the raw datasets `TKY.txt` or `IST.txt` in the folder `./datasets/Foursquare_*`,  which are renamed from e real-world datasets of Foursquare platform. Specifically, you need to put the `sample_POIs.txt` and `sample_Checkins.txt` in `./datasets/Foursquare_GWL` as the sampled raw data from Austin with `sample_gwl.py`. 
 
-It should be noted that you also need to put the `sample_POIs.txt` and `sample_Checkins.txt` in `Foursquare_GWL` as the raw data of Gowalla.
+In each data folder, there is also a text file `time_dict.txt`, which is used to construct temporal prompt.
 
 Select the dataset when processing raw data：
 ```shell
