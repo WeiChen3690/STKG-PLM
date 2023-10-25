@@ -14,7 +14,7 @@ Next-POI Recommendation with Spatial-Temporal Knowledge Graph and Prompt Pre-tra
 | # of entities | 24508 | 38246 | 38711 |
 | # of relations | 23390 | 49732 | 15561 |
 | # of triplets | 708942 | 1401385 | 277224 |
-| # of categories | 226 | 342 | 248 |
+
 
 
 
